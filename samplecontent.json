@@ -1,0 +1,47 @@
+[
+  {
+    "departments": [
+      {"name": "games", "confidence_score": 1.0}
+    ],
+    "name": "ARK: Survival Evolved",
+    "description": "ARK: Survival Evolved is an action-packed survival game set in a vast open world where you must survive against dinosaurs and other players. With a wide range of weapons, tools, and crafting options, you'll have everything you need to thrive in this brutal environment.",
+    "price": "34.99",
+    "recommended_age_rating": "16+"
+  },
+  {
+    "departments": [
+      {"name": "games", "confidence_score": 1.0}
+    ],
+    "name": "DayZ",
+    "description": "DayZ is a survival game set in a post-apocalyptic world where you must scavenge for resources, craft weapons and gear, and fight to survive against zombies and other players. With a huge open world to explore, you'll never run out of things to do in DayZ.",
+    "price": "44.99",
+    "recommended_age_rating": "18+"
+  },
+  {
+    "departments": [
+      {"name": "games", "confidence_score": 1.0}
+    ],
+    "name": "Eco",
+    "description": "Eco is a unique survival game set in a beautiful and vast open world. In Eco, you must work with other players to build a sustainable civilization while preserving the environment and fighting against natural disasters. With a focus on cooperation and sustainability, Eco is a must-play for fans of survival games.",
+    "price": "24.99",
+    "recommended_age_rating": "10+"
+  },
+  {
+    "departments": [
+      {"name": "games", "confidence_score": 1.0}
+    ],
+    "name": "Grounded",
+    "description": "Grounded is an action-packed survival game set in a world where you've been shrunk down to the size of an ant. With a wide range of tools, weapons, and crafting options, you'll have everything you need to survive and thrive in this strange new world.",
+    "price": "29.99",
+    "recommended_age_rating": "12+"
+  },
+  {
+    "departments": [
+      {"name": "games", "confidence_score": 1.0}
+    ],
+    "name": "Rust",
+    "description": "Rust is a survival game set in a harsh open world where you must scavenge for resources, craft weapons and gear, and fight to survive against other players. With a huge and active community, Rust is a must-play for fans of survival games.",
+    "price": "34.99",
+    "recommended_age_rating": "16+"
+  },
+  ]
