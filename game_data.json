@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Beat Saber",
+      "department": "Games",
+      "description": "Swing your virtual lightsabers to the beat of adrenaline-pumping music in this action-packed VR rhythm game.",
+      "price": "$29.99",
+      "age_rating": "Everyone 10+",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Rocksmith 2014 Edition",
+      "department": "Games",
+      "description": "Learn to play guitar or bass with this game that offers a comprehensive program of interactive lessons and dynamic jam tracks.",
+      "price": "$29.99",
+      "age_rating": "Everyone 10+",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Audiosurf 2",
+      "department": "Games",
+      "description": "Ride your music in this unique game that generates tracks based on your songs and lets you race, puzzle, or chill.",
+      "price": "$14.99",
+      "age_rating": "Everyone",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Crypt of the NecroDancer",
+      "department": "Games",
+      "description": "Move to the beat in this roguelike dungeon crawler that combines rhythm-based gameplay and randomly generated levels.",
+      "price": "$14.99",
+      "age_rating": "Everyone 10+",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Melody's Escape",
+      "department": "Games",
+      "description": "Run, jump, and slide to the rhythm of your own music library in this indie platformer with a unique twist.",
+      "price": "$9.99",
+      "age_rating": "Everyone",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Thumper",
+      "department": "Games",
+      "description": "Enter a hellish world of rhythm violence in this intense rhythm game that blends classic gameplay with new twists.",
+      "price": "$19.99",
+      "age_rating": "Everyone 10+",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Guitar Hero Live",
+      "department": "Games",
+      "description": "Rock out to a new generation of music in this revamp of the classic music franchise, featuring a live-action audience and real musicians.",
+      "price": "$49.99",
+      "age_rating": "Teen",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "OSU!",
+      "department": "Games",
+      "description": "Test your reflexes and accuracy in this free and open-source rhythm game that lets you create and share your own beatmaps.",
+      "price": "Free",
+      "age_rating": "Everyone",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Symphony",
+      "department": "Games",
+      "description": "Blast your way through waves of enemies with your own music library in this arcade-style shooter with a musical twist.",
+      "price": "$9.99",
+      "age_rating": "Everyone 10+",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    },
+    {
+      "name": "Musiverse",
+      "department": "Games",
+      "description": "Pilot your spaceship through a musical galaxy in this casual game that lets you play with your favorite tunes.",
+      "price": "Free",
+      "age_rating": "Everyone",
+       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/620980/ss_1881ae4f153faf0d1ccecca60fbdac5b43ad57eb.1920x1080.jpg"
+    }
+  ]
+  
